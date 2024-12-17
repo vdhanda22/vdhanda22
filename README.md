@@ -1,4 +1,3 @@
-<img src="static/images/banner.png">
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vaibhav+Dhanda....;Nice+to+meet+you!&center=true&size=28">
