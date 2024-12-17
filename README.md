@@ -1,28 +1,78 @@
-<img src="static/images/">
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vaibhav+Dhanda....;Nice+to+meet+you!&center=true&size=28">
-  </a>
-</h1>
+# 👨‍💻 Vaibhav Dhanda - Software Engineer 🚀
 
-![image](https://visitor-badge.laobi.icu/badge?page_id=vdhanda22.vdhanda22) [![Profile last updated](https://img.shields.io/github/last-commit/vdhanda22/vdhanda22/master?label=Last%20updated&style=flat)](https://github.com/vdhanda22/vdhanda22/commits)
-<br>
-<a href="https://www.linkedin.com/in/vdhanda22/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://stackoverflow.com/users/7335751/muhammad-umer-naeem">![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a> <a href="https://medium.com/@vdhanda22">![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> <a href="https://open.spotify.com/user/317wutakovw4zadwqkl2j336lwou">![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a> 
+Welcome to my GitHub profile! I'm a passionate Software Engineer with a strong love for coding, problem-solving, and building impactful software solutions. With experience in **full-stack development**, I specialize in building web and mobile applications, while continuously learning new technologies to stay ahead.
 
-<img  style="max-width:50%;" align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working in <a href="https://www.visionet.com/">Visionet Systems Ltd</a>.</li>
-<li>🧐 Learning about <strong>machine learning</strong>, <strong>computer graphics</strong>, and a bit of <strong>data sciences</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/vdhanda22">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://www.digitalfuge.com/blog/">my blog</a>.</li>
-<li>💬 Ping me about <strong>asp.net, dotnet core, angular, and cloud stuff</strong>.</li>
-<li>🎉 Fun Fact: It took less code to send a man to space than to run a smartphone!</li>
-</ul>
-<br>
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
-<h2>✒️ Recent Posts</h2>
+---
 
-<!-- MEDIUM:START -->
-- [What to do when your web developer is unresponsive? — Digitalfuge](https://vdhanda22.medium.com/what-to-do-when-your-web-developer-is-unresponsive-digitalfuge-ba9f060181ca?source=rss-857ccec86b86------2)
-<!-- MEDIUM:END -->
+## 🔧 Technologies & Tools
+
+Here's a quick look at some of the languages, tools, and technologies I work with:
+
+- **Languages**: JavaScript, Python, Java, C++, Go, HTML5, CSS3
+- **Frontend**: React.js, Angular, Vue.js, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js, Django, Flask
+- **Database**: MongoDB, PostgreSQL, MySQL
+- **DevOps**: Docker, Kubernetes, CI/CD, AWS, Jenkins
+- **Version Control**: Git, GitHub, GitLab
+- **Others**: GraphQL, RESTful APIs, Firebase, Redis, Nginx
+
+---
+
+## 🛠️ Current Projects
+
+### [Project Name 1](link_to_project_repo)
+- A brief description of the project, what it does, and its key features.
+- Technologies used: JavaScript, Node.js, MongoDB
+- [Live Demo](link_to_live_demo) | [Documentation](link_to_docs)
+
+### [Project Name 2](link_to_project_repo)
+- A brief description of the project, what it does, and its key features.
+- Technologies used: Python, Django, PostgreSQL
+- [Live Demo](link_to_live_demo) | [Documentation](link_to_docs)
+
+---
+
+## 📈 GitHub Stats
+
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavdhanda&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+## 🌱 I’m Currently Learning
+- **Cloud Computing** (AWS, Azure)
+- **Machine Learning & AI** (TensorFlow, PyTorch)
+- **Mobile App Development** (Flutter, React Native)
+
+---
+
+## 🔗 Connect with Me
+
+- 🌐 [Website](https://your-website.com)
+- 📧 [Email](mailto:vaibhav@example.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavdhanda/)
+- 🐦 [Twitter](https://twitter.com/vaibhavdhanda)
+- 💼 [Portfolio](https://your-portfolio.com)
+
+---
+
+## 💬 About Me
+
+I am a software engineer passionate about creating efficient and scalable applications. I believe in continuous learning and collaboration, and I enjoy working on challenging problems that push the boundaries of technology. Outside of work, I enjoy reading about new tech trends, experimenting with new programming languages, and contributing to open-source projects.
+
+Feel free to reach out if you’d like to collaborate on a project, discuss tech, or just have a chat!
+
+---
+
+## 👨‍💻 Fun Facts
+
+- I love solving algorithmic problems and participate in coding challenges.
+- I enjoy working with cross-functional teams to deliver impactful solutions.
+- My favorite programming language is **JavaScript** (but I also have a soft spot for Python).
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
