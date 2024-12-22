@@ -46,11 +46,11 @@ Here's a quick look at some of the languages, tools, and technologies I work wit
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaibhavdhanda&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
----
+----->
 
 ## 🌱 I’m Currently Learning
 - **Cloud Computing** (AWS, Azure)
