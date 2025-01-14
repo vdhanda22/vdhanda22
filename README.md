@@ -83,7 +83,10 @@ Feel free to reach out if you’d like to collaborate on a project, discuss tech
 - My favorite programming language is **JavaScript** (but I also have a soft spot for Python).
 
 ---
+<!--
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ZaidKamil1574)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zaid-kamil/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mzaidk.net/)  
 
-![image](https://github.com/user-attachments/assets/85f4054f-e400-4627-bb75-98a0de579008)
-
+-->
