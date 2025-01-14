@@ -83,3 +83,7 @@ Feel free to reach out if you’d like to collaborate on a project, discuss tech
 - My favorite programming language is **JavaScript** (but I also have a soft spot for Python).
 
 ---
+
+
+![image](https://github.com/user-attachments/assets/85f4054f-e400-4627-bb75-98a0de579008)
+
