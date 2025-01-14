@@ -56,6 +56,7 @@ Here's a quick look at some of the languages, tools, and technologies I work wit
 - **Cloud Computing** (AWS, Azure)
 - **Machine Learning & AI** (TensorFlow, PyTorch)
 - **Mobile App Development** (Flutter, React Native)
+- **AR / VR** (Unity, Blender)
 
 ---
 
